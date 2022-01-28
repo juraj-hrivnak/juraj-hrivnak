@@ -1,6 +1,7 @@
-### Hi there 👋
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=juraj-hrivnak&&show_icons=true&theme=default&include_all_commits=true"/>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juraj-hrivnak&layout=default&theme=default"/>
+# Hi there 👋
+- 🔭 I’m currently working on [Underdog](https://github.com/juraj-hrivnak/Underdog).
+<!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=juraj-hrivnak&&show_icons=true&theme=default&include_all_commits=true"/> -->
+<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juraj-hrivnak&layout=compact&theme=react"/> <br>
 
 
 <!--
