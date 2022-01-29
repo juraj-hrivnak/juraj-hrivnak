@@ -1,8 +1,8 @@
-# Hi there 👋
-- 🔭 I’m currently working on [Underdog](https://github.com/juraj-hrivnak/Underdog).
-<!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=juraj-hrivnak&&show_icons=true&theme=default&include_all_commits=true"/> -->
-<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juraj-hrivnak&layout=compact&theme=react"/> <br>
-
+<h1>Hi there 👋</h1>
+<h1><img style="float: right;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juraj-hrivnak&amp;layout=compact&amp;theme=react" alt="" width="384" height="181" /></h1>
+<ul>
+<li>🔭 I&rsquo;m currently working on <a href="https://github.com/juraj-hrivnak/Underdog">Underdog</a>.</li>
+</ul>
 
 <!--
 **juraj-hrivnak/juraj-hrivnak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
