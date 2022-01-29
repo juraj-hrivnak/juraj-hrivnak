@@ -1,8 +1,7 @@
-<h1>Hi there 👋</h1>
-<h1><img style="float: right;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juraj-hrivnak&amp;layout=compact&amp;theme=react" alt="" width="384" height="181" /></h1>
-<ul>
-<li>🔭 I&rsquo;m currently working on <a href="https://github.com/juraj-hrivnak/Underdog">Underdog</a>.</li>
-</ul>
+# Hi there 👋
+ - 🔭 I'm currently working on
+ ![](https://github-readme-stats.vercel.app/api/top-langs/?username=juraj-hrivnak&amp;layout=compact&amp;theme=react)
+
 
 <!--
 **juraj-hrivnak/juraj-hrivnak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
