@@ -1,5 +1,5 @@
 # Hi there 👋
- - 🔭 I'm currently learning classical music, Kotlin & Java.
+ - 🔭 I'm currently learning Classical music, Kotlin & Java.
  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=juraj-hrivnak&amp;layout=compact&amp;theme=react)
 
