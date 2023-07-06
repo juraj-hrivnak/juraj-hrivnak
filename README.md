@@ -1,6 +1,6 @@
 # Hi there 👋
  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=juraj-hrivnak&amp;layout=compact&amp;theme=react) ![](https://github-readme-stats.vercel.app/api?username=juraj-hrivnak&amp;layout=compact&amp;theme=react)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=juraj-hrivnak&amp;layout=compact&amp;theme=react)
 
 <!--
 **juraj-hrivnak/juraj-hrivnak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
