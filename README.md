@@ -1,6 +1,4 @@
 # Hi there 👋
- 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=juraj-hrivnak&amp;layout=compact&amp;theme=react)
 
 ## List of my Minecraft-related repositories
 
