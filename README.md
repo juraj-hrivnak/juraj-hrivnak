@@ -1,15 +1,15 @@
 # Hi there 👋
 
 ## List of my Minecraft-related repositories
-
-[┕━━ `Underdog` ━━━](https://github.com/juraj-hrivnak/Underdog) \
-[┕━━ `.minecraft` ━━━](https://github.com/juraj-hrivnak/.minecraft) \
-[┕━━ `Greenery🌿` ━━━](https://github.com/juraj-hrivnak/Greenery) \
-[┕━━ `Modpack Downloader` ━━━](https://github.com/Joshyx/ModpackDownloader) \
-[┕━━ `SimpleDifficulty for Underdog` ━━━](https://github.com/juraj-hrivnak/SimpleDifficulty) \
-[┕━━ `Salt Water Patcher` ━━━](https://github.com/juraj-hrivnak/SaltWaterPatcher) \
-[┕━━ `Realistic Terrain Generation Unofficial` ━━━](https://github.com/juraj-hrivnak/RTGUnofficial) \
-[┕━━ `Even More Realistic Ore Veins` ━━━](https://github.com/juraj-hrivnak/ore-veins)
+⚡ \
+[├── **`Underdog`**](https://github.com/juraj-hrivnak/Underdog) \
+[├── **`.minecraft`**](https://github.com/juraj-hrivnak/.minecraft) \
+[├── **`Greenery🌿`**](https://github.com/juraj-hrivnak/Greenery) \
+[├── **`Modpack Downloader`**](https://github.com/Joshyx/ModpackDownloader) \
+[├── **`SimpleDifficulty for Underdog`**](https://github.com/juraj-hrivnak/SimpleDifficulty) \
+[├── **`Salt Water Patcher`**](https://github.com/juraj-hrivnak/SaltWaterPatcher) \
+[├── **`Realistic Terrain Generation Unofficial`**](https://github.com/juraj-hrivnak/RTGUnofficial) \
+[└── **`Even More Realistic Ore Veins`**](https://github.com/juraj-hrivnak/ore-veins)
 
 <!--
 Here are some ideas to get you started:
