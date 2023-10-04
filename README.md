@@ -1,5 +1,5 @@
 # Hi there 👋
-
+<!--
 ## List of my Minecraft-related repositories
 ⚡ \
 &nbsp;┣━━━ [**`Underdog`**](https://github.com/juraj-hrivnak/Underdog) \
@@ -26,7 +26,7 @@
 &nbsp;┗━━━ [**`Even More Realistic Ore Veins`**](https://github.com/juraj-hrivnak/ore-veins) \
 &nbsp;&nbsp;&nbsp;&emsp;&emsp;┗━━━ Fork of Realistic Ore Veins. Adds ore stone variants compatibility & a reload command.
 
-<!--
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
