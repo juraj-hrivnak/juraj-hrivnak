@@ -1,5 +1,6 @@
 # Hi there 👋
 
+<!--
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=juraj-hrivnak&layout=compact&theme=dark"
@@ -12,7 +13,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juraj-hrivnak&layout=compact" />
 </picture>
 
-<!--
+
 ## List of my Minecraft-related repositories
 ⚡ \
 &nbsp;┣━━━ [**`Underdog`**](https://github.com/juraj-hrivnak/Underdog) \
