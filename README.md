@@ -1,5 +1,7 @@
 # Hi there 👋
 
+![](https://cf.way2muchnoise.eu/author/full_way2muchnoise_downloads.svg)
+
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
