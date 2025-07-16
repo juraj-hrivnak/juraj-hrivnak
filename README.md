@@ -1,6 +1,6 @@
 # Hi there 👋
 
-![](https://cf.way2muchnoise.eu/author/short_teksturepako.svg)
+[![](https://cf.way2muchnoise.eu/author/short_teksturepako.svg)](https://www.curseforge.com/members/teksturepako/projects)
 
 <picture>
   <source
